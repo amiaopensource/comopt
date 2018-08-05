@@ -1,10 +1,12 @@
 # Digital Image Based Restoration of Optical Movie Soundtracks
 
-## ☛ **This is a work in progress!** ☚
+**This software is part of the diploma thesis [Digital Image Based Restoration of Optical Movie Soundtracks](report.pdf) by Patrick Streule, presented in 1999 at the ETHZ, the Swiss Federal Institute of Technology in Zurich, Switzerland.**
 
-We are trying since months to make the BIPP classes available here. Any help would be most appreciated! The reference is
+We are trying since 2018–03–09 to make the BIPP classes available here as well. Any help would be most appreciated! The full reference is
 
 **Armin Wittmann: _BIPP Basel Image Processing Package_, Department for Applied Image Sciences, Institute of Physical Chemistry, University of Basel, 1996**
+
+## ☛ **This is a work in progress!** ☚
 
 ### Contributions are very welcome!
 
